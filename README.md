@@ -29,7 +29,7 @@ http://123.163.22.156:8899
 https://oa.example.com:8443
 192.168.1.100:8080
 ​典型输出示例
-https://via.placeholder.com/600x200/000000/FFFFFF/?text=Console+Output
+https://viar.com/600x200/000000/FFFFFF/?text=Console+Output
 ​防御规避技巧
 随机化User-Agent（可在代码中扩展 utils/random_ua.py）
 动态边界符生成（已在 upload_webshell 函数预留接口）
