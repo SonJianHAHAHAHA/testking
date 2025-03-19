@@ -25,7 +25,7 @@ python htoa_batch.py -f urls.txt -t 20 -o scan_reports
 ​使用建议
 ​输入文件格式​（url.txt示例）
 text
-http://123.163.22.156:8899
+http://123.123.123.123:8899
 https://oa.example.com:8443
 192.168.1.100:8080
 ​典型输出示例
